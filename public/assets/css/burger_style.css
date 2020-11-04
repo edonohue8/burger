@@ -1,0 +1,13 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 45px;
+}
+
+.card-header {
+    background-color: blue;
+    color: white;
+}
