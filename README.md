@@ -18,10 +18,10 @@ My assignment was to create and build a burger logger utilizing MySQL, Node, Exp
 
 ## Screenshots
 
-* **Terminal - Adding Employee**
+* **Waiting to be devoured!**
 <img src="public/assets/readme/sample1.png" width="600">
 
-* **Terminal - Adding Role**
+* **Devoured!**
 <img src="public/assets/readme/sample2.png" width="600">
 
 ## Author
